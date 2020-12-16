@@ -22,7 +22,7 @@
 
 [-] Security Issues or concerns i Am aware of:
     
-	 - no try/catch for at fails points
+    - no try/catch for at fails points
     - All 3 file must be in the same Dir 
     - Code does not check to see if changes were made it just pushes the code as it is
     - Once the code is ran force quiting the terminal is requiered to end the process
